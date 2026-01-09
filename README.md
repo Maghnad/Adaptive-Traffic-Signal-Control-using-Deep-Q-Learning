@@ -1,6 +1,4 @@
-I have drafted a professional, academic-style README.md for your GitHub repository. It is designed to look like a high-quality research project, highlighting your results and methodology.
-
-Adaptive Traffic Signal Control via Deep Reinforcement Learning
+#Adaptive Traffic Signal Control via Deep Reinforcement Learning
 This project implements a Deep Q-Network (DQN) agent to optimize traffic signal timings at a four-way intersection. By leveraging real-time vehicle counts from 12 lane-area detectors, the system adaptively switches light phases to minimize the total queue length and waiting time.
 
 🚦 Project Overview
@@ -44,8 +42,8 @@ TensorFlow, NumPy, Matplotlib, TraCI
 Bash
 
 # Clone the repository
-git clone https://github.com/your-username/DQL-Traffic-Control.git
-cd DQL-Traffic-Control
+git clone https://github.com/Maghnad/Adaptive-Traffic-Signal-Control-using-Deep-Q-Learning.git
+cd Adaptive-Traffic-Signal-Control-using-Deep-Q-Learning.git
 
 # Install dependencies
 pip install -r requirements.txt
