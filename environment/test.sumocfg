@@ -10,9 +10,9 @@
     </configuration>
 
     <input>
-        <net-file value="test.net.xml"/>
-        <route-files value="test.rou.xml"/>
-        <additional-files value="test.add.xml"/>
+        <net-file value="environment/test.net.xml"/>
+        <route-files value="environment/test.rou.xml"/>
+        <additional-files value="environment/test.add.xml"/>
     </input>
 
     <gui_only>
