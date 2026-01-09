@@ -1,4 +1,4 @@
-#Adaptive Traffic Signal Control via Deep Reinforcement Learning
+# Adaptive Traffic Signal Control via Deep Reinforcement Learning
 This project implements a Deep Q-Network (DQN) agent to optimize traffic signal timings at a four-way intersection. By leveraging real-time vehicle counts from 12 lane-area detectors, the system adaptively switches light phases to minimize the total queue length and waiting time.
 
 🚦 Project Overview
@@ -43,6 +43,7 @@ Bash
 
 # Clone the repository
 git clone https://github.com/Maghnad/Adaptive-Traffic-Signal-Control-using-Deep-Q-Learning.git
+
 cd Adaptive-Traffic-Signal-Control-using-Deep-Q-Learning.git
 
 # Install dependencies
